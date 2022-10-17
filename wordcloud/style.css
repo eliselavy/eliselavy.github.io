@@ -18,7 +18,7 @@ body {
     'Computer Computer Computer Information Coding Debugging Learning Testing'
     '. Readability Software Information Coding Debugging Learning Design     '
     '. . Software Information Programming Debugging Learning Design'
-    '. . Software Information Algorithm Debugging Learning Design'
+    '. . Software Information Laban Debugging Learning Design'
     '. . . Information . . Learning .';
 
 }
@@ -56,8 +56,8 @@ body :nth-child(5n) {
 #Programming {
     grid-area: Programming;
 }
-#Algorithm {
-    grid-area: Algorithm;
+#Laban {
+    grid-area: Laban;
 }
 #Software {
     grid-area: Software;
