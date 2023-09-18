@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_6d614045f526910569272dcd20c74ed3 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_6d614045f526910569272dcd20c74ed3" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_6d614045f526910569272dcd20c74ed3 = L.map(
+                "map_6d614045f526910569272dcd20c74ed3",
+                {
+                    center: [49.07523026765707, 6.152198680780486],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+            L.control.scale().addTo(map_6d614045f526910569272dcd20c74ed3);
+
+            
+
+        
+    
+            var tile_layer_594c7c892f8f7f0a064b570e5aa1e2a2 = L.tileLayer(
+                "https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg",
+                {"attribution": "Map tiles by \u003ca href=\"http://stamen.com\"\u003eStamen Design\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by/3.0\"\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://creativecommons.org/licenses/by-sa/3.0\"\u003eCC BY SA\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_6d614045f526910569272dcd20c74ed3);
+        
+    
+            var marker_fe9f48d7eec676ae439a6011e6db56d3 = L.marker(
+                [49.033809661865234, 6.320624828338623],
+                {}
+            ).addTo(map_6d614045f526910569272dcd20c74ed3);
+        
+    
+            var icon_25472109abce063b25e0e70234b7b8cf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-deciduous", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_fe9f48d7eec676ae439a6011e6db56d3.setIcon(icon_25472109abce063b25e0e70234b7b8cf);
+        
+    
+        var popup_2bf6c30165e4bb86e45fb7da15d5c057 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9f244be53cea35d3556fd2623bfd2c47 = $(`<div id="html_9f244be53cea35d3556fd2623bfd2c47" style="width: 100.0%; height: 100.0%;"><b>Poncillon</b><br>Danse sauvage:  novembre 2020<br>More info<a href='nan' target='blank'> here</a></div>`)[0];
+            popup_2bf6c30165e4bb86e45fb7da15d5c057.setContent(html_9f244be53cea35d3556fd2623bfd2c47);
+        
+
+        marker_fe9f48d7eec676ae439a6011e6db56d3.bindPopup(popup_2bf6c30165e4bb86e45fb7da15d5c057)
+        ;
+
+        
+    
+    
+            var marker_7ebfaf3f69c399bec0375967f26c3a5a = L.marker(
+                [49.11876467518592, 6.052289702514498],
+                {}
+            ).addTo(map_6d614045f526910569272dcd20c74ed3);
+        
+    
+            var icon_cccd7cbd1af1eeee4dc5c62bedcf9a0c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-deciduous", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_7ebfaf3f69c399bec0375967f26c3a5a.setIcon(icon_cccd7cbd1af1eeee4dc5c62bedcf9a0c);
+        
+    
+        var popup_a11bc078d36e32b30596fa43c6be1ccb = L.popup({"maxWidth": "100%"});
+
+        
+            var html_99d6e46f132b617d9934825d5ffb14c3 = $(`<div id="html_99d6e46f132b617d9934825d5ffb14c3" style="width: 100.0%; height: 100.0%;"><b>Gravelotte</b><br>Danse sauvage: 14 février 2021<br>More info<a href='nan' target='blank'> here</a></div>`)[0];
+            popup_a11bc078d36e32b30596fa43c6be1ccb.setContent(html_99d6e46f132b617d9934825d5ffb14c3);
+        
+
+        marker_7ebfaf3f69c399bec0375967f26c3a5a.bindPopup(popup_a11bc078d36e32b30596fa43c6be1ccb)
+        ;
+
+        
+    
+    
+            var marker_76825b9fcca9e4b675f7dc623f03926d = L.marker(
+                [49.05664296192965, 6.442677494066981],
+                {}
+            ).addTo(map_6d614045f526910569272dcd20c74ed3);
+        
+    
+            var icon_113f73b1dce653573470fb3354af19c4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-deciduous", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_76825b9fcca9e4b675f7dc623f03926d.setIcon(icon_113f73b1dce653573470fb3354af19c4);
+        
+    
+        var popup_8cf2e9d4fa9150e2fd5b607aa1c100fe = L.popup({"maxWidth": "100%"});
+
+        
+            var html_49cd1af2bffb78ae7424789619dc4def = $(`<div id="html_49cd1af2bffb78ae7424789619dc4def" style="width: 100.0%; height: 100.0%;"><b>Mont Saint Pierre</b><br>Danse sauvage: 28 mars 2021<br>More info<a href='mont_saint_pierre.html' target='blank'> here</a></div>`)[0];
+            popup_8cf2e9d4fa9150e2fd5b607aa1c100fe.setContent(html_49cd1af2bffb78ae7424789619dc4def);
+        
+
+        marker_76825b9fcca9e4b675f7dc623f03926d.bindPopup(popup_8cf2e9d4fa9150e2fd5b607aa1c100fe)
+        ;
+
+        
+    
+    
+            var marker_cffe86a4c309a7da2b338d8ef7b7e902 = L.marker(
+                [49.12461280029823, 6.1776230172956],
+                {}
+            ).addTo(map_6d614045f526910569272dcd20c74ed3);
+        
+    
+            var icon_4ff0256ed7ffa448ed8d929015ecfc58 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-deciduous", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_cffe86a4c309a7da2b338d8ef7b7e902.setIcon(icon_4ff0256ed7ffa448ed8d929015ecfc58);
+        
+    
+        var popup_3674afdd2f0c2fe4d0e4f35c947a39a1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_1d9433b7ad72c8f8b72f987c59fbf7cc = $(`<div id="html_1d9433b7ad72c8f8b72f987c59fbf7cc" style="width: 100.0%; height: 100.0%;"><b>Metz</b><br>Danse sauvage: 18 avril 2021<br>More info<a href='nan' target='blank'> here</a></div>`)[0];
+            popup_3674afdd2f0c2fe4d0e4f35c947a39a1.setContent(html_1d9433b7ad72c8f8b72f987c59fbf7cc);
+        
+
+        marker_cffe86a4c309a7da2b338d8ef7b7e902.bindPopup(popup_3674afdd2f0c2fe4d0e4f35c947a39a1)
+        ;
+
+        
+    
+    
+            var marker_e0d6eac5b4689d8b23a5cfaf21e37123 = L.marker(
+                [49.07754411010524, 6.177577059687756],
+                {}
+            ).addTo(map_6d614045f526910569272dcd20c74ed3);
+        
+    
+            var icon_e4f9631cf84693cf71559ca701cf0355 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-deciduous", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_e0d6eac5b4689d8b23a5cfaf21e37123.setIcon(icon_e4f9631cf84693cf71559ca701cf0355);
+        
+    
+        var popup_0f606eb24cd560434d14e98ce1a527b5 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_c6667fa2ca90edeb578aa2ca2376c961 = $(`<div id="html_c6667fa2ca90edeb578aa2ca2376c961" style="width: 100.0%; height: 100.0%;"><b>Magny</b><br>Danse sauvage: 16 mai 2021<br>More info<a href='nan' target='blank'> here</a></div>`)[0];
+            popup_0f606eb24cd560434d14e98ce1a527b5.setContent(html_c6667fa2ca90edeb578aa2ca2376c961);
+        
+
+        marker_e0d6eac5b4689d8b23a5cfaf21e37123.bindPopup(popup_0f606eb24cd560434d14e98ce1a527b5)
+        ;
+
+        
+    
+    
+            var marker_cdad157ddd26bb5431403473ec11daba = L.marker(
+                [49.12730893279688, 6.07463476352303],
+                {}
+            ).addTo(map_6d614045f526910569272dcd20c74ed3);
+        
+    
+            var icon_1f0192b66617209c3289b05c58d2b82b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-deciduous", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_cdad157ddd26bb5431403473ec11daba.setIcon(icon_1f0192b66617209c3289b05c58d2b82b);
+        
+    
+        var popup_90c207ad23a2e562b359790cb9b7fb7b = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ea6d257ba3e5f29b78592f8eb6b639d5 = $(`<div id="html_ea6d257ba3e5f29b78592f8eb6b639d5" style="width: 100.0%; height: 100.0%;"><b>Châtel Saint Germain</b><br>Danse sauvage: 6 juin 2021<br>More info<a href='nan' target='blank'> here</a></div>`)[0];
+            popup_90c207ad23a2e562b359790cb9b7fb7b.setContent(html_ea6d257ba3e5f29b78592f8eb6b639d5);
+        
+
+        marker_cdad157ddd26bb5431403473ec11daba.bindPopup(popup_90c207ad23a2e562b359790cb9b7fb7b)
+        ;
+
+        
+    
+    
+            var marker_39697e175d8314619827f93484247261 = L.marker(
+                [49.12167475054049, 6.063014504129335],
+                {}
+            ).addTo(map_6d614045f526910569272dcd20c74ed3);
+        
+    
+            var icon_81a9473f53f82e50a4b6a3c3a512fd58 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-deciduous", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_39697e175d8314619827f93484247261.setIcon(icon_81a9473f53f82e50a4b6a3c3a512fd58);
+        
+    
+        var popup_2e38539785910509a1c750152a4f08a8 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_06a5d8dc216df7bd95f6aee7cf4fc316 = $(`<div id="html_06a5d8dc216df7bd95f6aee7cf4fc316" style="width: 100.0%; height: 100.0%;"><b>Hêtre des batailles</b><br>Danse sauvage: 15 mai 2022<br>More info<a href='nan' target='blank'> here</a></div>`)[0];
+            popup_2e38539785910509a1c750152a4f08a8.setContent(html_06a5d8dc216df7bd95f6aee7cf4fc316);
+        
+
+        marker_39697e175d8314619827f93484247261.bindPopup(popup_2e38539785910509a1c750152a4f08a8)
+        ;
+
+        
+    
+    
+            var marker_7dceafd7999e2ac909add8fd34195542 = L.marker(
+                [49.01020927418873, 6.031929611104216],
+                {}
+            ).addTo(map_6d614045f526910569272dcd20c74ed3);
+        
+    
+            var icon_e7644a34a0ccf22b7e0e550a25cc5fab = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-deciduous", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_7dceafd7999e2ac909add8fd34195542.setIcon(icon_e7644a34a0ccf22b7e0e550a25cc5fab);
+        
+    
+        var popup_f78f47b2445a04f09e1d44655fc96ed7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_9d063fe0e0cea9da46babde8177d16eb = $(`<div id="html_9d063fe0e0cea9da46babde8177d16eb" style="width: 100.0%; height: 100.0%;"><b>Arnaville</b><br>Danse sauvage: 19 juin 2022<br>More info<a href='nan' target='blank'> here</a></div>`)[0];
+            popup_f78f47b2445a04f09e1d44655fc96ed7.setContent(html_9d063fe0e0cea9da46babde8177d16eb);
+        
+
+        marker_7dceafd7999e2ac909add8fd34195542.bindPopup(popup_f78f47b2445a04f09e1d44655fc96ed7)
+        ;
+
+        
+    
+    
+            var marker_f11e3ecf31b123a250bf3cc3c812af70 = L.marker(
+                [49.12774961469644, 6.1247391930989465],
+                {}
+            ).addTo(map_6d614045f526910569272dcd20c74ed3);
+        
+    
+            var icon_e3a82b3652cdbe78239ec649b2409c1e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-deciduous", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_f11e3ecf31b123a250bf3cc3c812af70.setIcon(icon_e3a82b3652cdbe78239ec649b2409c1e);
+        
+    
+        var popup_a71e9508c936f641176f15163430c9ab = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4b9971dee29d01182b77367b19953a44 = $(`<div id="html_4b9971dee29d01182b77367b19953a44" style="width: 100.0%; height: 100.0%;"><b>Bucher Plapeville</b><br>Danse sauvage: 21mai 2023<br>More info<a href='nan' target='blank'> here</a></div>`)[0];
+            popup_a71e9508c936f641176f15163430c9ab.setContent(html_4b9971dee29d01182b77367b19953a44);
+        
+
+        marker_f11e3ecf31b123a250bf3cc3c812af70.bindPopup(popup_a71e9508c936f641176f15163430c9ab)
+        ;
+
+        
+    
+    
+            var marker_137b05a585edeb500613728166d3f2df = L.marker(
+                [48.95398589496389, 6.056876634045868],
+                {}
+            ).addTo(map_6d614045f526910569272dcd20c74ed3);
+        
+    
+            var icon_30d53992e4440a879ed57ca12c3caba2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "tree-deciduous", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_137b05a585edeb500613728166d3f2df.setIcon(icon_30d53992e4440a879ed57ca12c3caba2);
+        
+    
+        var popup_628e960fc38723ab73c0a7ee9f967eb1 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_e6d24c89dfd14d6fbeb6cec3d42e7475 = $(`<div id="html_e6d24c89dfd14d6fbeb6cec3d42e7475" style="width: 100.0%; height: 100.0%;"><b>Champey Moselle tgv</b><br>Danse sauvage: 2 juillet 2023<br>More info<a href='nan' target='blank'> here</a></div>`)[0];
+            popup_628e960fc38723ab73c0a7ee9f967eb1.setContent(html_e6d24c89dfd14d6fbeb6cec3d42e7475);
+        
+
+        marker_137b05a585edeb500613728166d3f2df.bindPopup(popup_628e960fc38723ab73c0a7ee9f967eb1)
+        ;
+
+        
+    
+</script>
+</html>

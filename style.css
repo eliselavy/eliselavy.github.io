@@ -13,14 +13,19 @@ body {
     gap: 5px;
     /* A grid-template is a shorthand for defining the layout similar to excel format only here each row is made of text containing
     name references to objects (in our case it’s the “grid-area” or empty cells defined as “.”) separated by spaces. */
-    grid-template:
-    '. . . Information Documentation Documentation Documentation Documentation'
-    'Computer Computer Computer Information Coding Debugging Learning Testing'
-    '. Readability Software Information Coding Debugging Learning Design     '
-    '. . Software Information Programming Debugging Learning Design'
-    '. . Software Information Laban Debugging Learning Design'
-    '. . . Information . . Learning .';
 
+  /*   grid-template:
+    '. . . . Documentation Documentation Documentation Documentation . Green'
+    'Computer Computer Computer Information Coding Debugging Learning Testing . Green'
+    '. Readability Software Information Coding Debugging Learning Design Sky Green'
+    '. . Software Information Programming Debugging Learning Design Sky Green'
+    '. . Software Information Laban Debugging Learning Design Sky Green'
+    '. . . Information . . Learning . Sky Green';
+ */
+ grid-template:
+    '. Documentation Documentation'
+    '. Documentation Documentation'
+    'Readability Software .';
 }
 body > div {
     text-shadow: 3px 5px 8px rgba(1, 1, 1, 0.3);
@@ -52,7 +57,37 @@ body :nth-child(5n) {
     font-size: 4rem;
     color: #046e8f;
 }
-
+/* quadruple size and different color for each fifth word */
+body :nth-child(6n) {
+    font-size: 4rem;
+    color: #048f27;
+}
+body :nth-child(7n) {
+    font-size: 4rem;
+    color: #3e0439;
+}
+body :nth-child(8n) {
+    font-size: 4rem;
+    color: #bc7b26;
+}
+body :nth-child(9n) {
+    font-size: 4rem;
+    color: #e5518f;
+}
+body :nth-child(10n) {
+    font-size: 4rem;
+    color: #0cbd94;
+}
+body :nth-child(11n) {
+    font-size: 4rem;
+    color: #7aaa3e;
+}
+#Spring {
+    grid-area: Spring;
+}
+#Sky {
+    grid-area: Sky;
+}
 #Programming {
     grid-area: Programming;
 }
