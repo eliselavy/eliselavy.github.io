@@ -34,6 +34,12 @@ body > div {
 body > div {
     color: #022f40;
 }
+
+body > div > a:hover, a:visited, a:link, a:active {
+    text-decoration: none;
+    color: #022f40;
+
+}
 /* twice the size, bold and different color for each second word */
 body :nth-child(2n) {
     font-size: 2rem;
