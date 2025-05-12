@@ -18,8 +18,12 @@
     }
     .clickable-zone {
         position: absolute;
-        border: 2px solid red; /* Red border for visibility */
+        /* border: 2px solid red;  Red border for visibility */
         cursor: pointer;
+        color: #ff5aac; /* Text color set to pink */
+        font-size: 32px; /* Font size set to 24px */
+        transform: rotate(330deg); /* Rotate the text by 15 degrees */
+        font-style: normal; /* Remove italic style */
     }
     #zone1 {
         top: 300px; /* Adjusted to align with the top of the image */
@@ -37,6 +41,6 @@
 </head>
 <body>
     <div id="zone1" class="clickable-zone" onclick="location.href='danse_sauvage/dance_sauvage_terrain.html';">danse sauvage</div>
-    <div id="zone2" class="clickable-zone" onclick="location.href='danse_sauvage/resume_dance.html';">cv</div>
+    <div id="zone2" class="clickable-zone" onclick="location.href='danse_sauvage/resume_dance.html';">cv danse</div>
 </body>
 </html>
