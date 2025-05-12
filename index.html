@@ -37,6 +37,42 @@
         width: 150px;
         height: 150px;
     }
+
+    @media (max-width: 768px) {
+        .clickable-zone {
+            font-size: 24px; /* Reduce font size for smaller screens */
+        }
+        #zone1 {
+            top: 200px; /* Adjust position for smaller screens */
+            left: 100px;
+            width: 100px;
+            height: 100px;
+        }
+        #zone2 {
+            top: 150px; /* Adjust position for smaller screens */
+            left: 400px;
+            width: 100px;
+            height: 100px;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .clickable-zone {
+            font-size: 18px; /* Further reduce font size for very small screens */
+        }
+        #zone1 {
+            top: 150px; /* Adjust position for very small screens */
+            left: 50px;
+            width: 80px;
+            height: 80px;
+        }
+        #zone2 {
+            top: 100px; /* Adjust position for very small screens */
+            left: 200px;
+            width: 80px;
+            height: 80px;
+        }
+    }
 </style>
 </head>
 <body>
