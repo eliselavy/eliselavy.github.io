@@ -18,12 +18,17 @@ Week-end préparatoire:
 ## Workshop
 ### Travail en extérieur
 
+##### Jennifer Monson- Investigating dance as a navigational / migrational project -Prague (10 jours - 2013)
 
-##### Sentiers intérieurs - Ephia Gburek - Du 4 au 7 juillet 2022
-Le travail dans le workshop Devenir falaise. Devenir fleuve. Être fouille. Être feuille. Geste végétal. Action immobile. Être fossile. Être lieu. Lieu pour se dissoudre, se confondre avec le paysage.  
-C'était une vraie continuation du travail avec toi cette année passée, je ne sais si tu connais cette praticienne Ephia Gburek (https://djalma.com/fr/stages.html), micro mouvement, paysage émotionnelle, où suis-je?  qu'est ce qu'il m'arrive bref tu n'étais jamais loin, et j'ai été heureuse de trouver un endroit où travailler des choses similaires.
+##### Sentiers intérieurs - Ephia Gburek - Du 4 au 7 juillet 2022 - Tourzel-Ronzières
+Devenir falaise. Devenir fleuve. Être fouille. Être feuille. Geste végétal. Action immobile. Être fossile. Être lieu. Lieu pour se dissoudre, se confondre avec le paysage.
+Ephia Gburek (https://djalma.com/fr/stages.html)
 
-### Travail de répertoire
+### Travail en intérieur
+
+#####  Min Tanaka - Workshop dans le cadre de Camping -CND Paris ( 20-24/06 * 27/06-01/07 - 2016)
+
+##### Body weather - Frank van de Ven - 7 et 8 décembre 2024 - Nancy
 
 
 ## Performance
@@ -38,5 +43,11 @@ Halte dans un champ de Poncillon pendant le Cougnet Ponpon
 
 ## Diplôme
 
+###  Licence d'Histoire / géographie - 1999
 
+###  Licence d'informatique - 2003
+
+### Diplôme de 1er cycle supérieur Notation du mouvement - notation Laban - CNSMDDP - 2017
+
+### Master d'Arts, Lettres, Langues - Parcours type Expertise et médiation culturelle - 2020
 
