@@ -16,12 +16,7 @@ body {
     transform: rotate(330deg);
     font-style: normal;
 }
-h2 {
-    color: #ff5aac;
-}
-body h2 {
-    color: pink !important;
-}
+
 #zone1 {
     top: 40%;
     left: 30%;

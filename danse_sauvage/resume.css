@@ -1,0 +1,6 @@
+h2 {
+    color: #ff5aac;
+}
+body h2 {
+    color: #ff5aac !important;
+}

@@ -8,10 +8,10 @@ Voir les appels proposées sur cette [carte](https://eliselavy.github.io/danse_s
 
 Week-end préparatoire:
 
-- 23 - 24 septembre 2023  — Recherches pour Les appels à la danse sauvage / Sarah Grandjean, Nelly Pairon, Elisabeth Guerard, Nathalie Bonafé @ Vosges
+- 23 - 24 septembre 2023  — recherche pour Les appels à la danse sauvage / Sarah Grandjean, Nelly Pairon, Elisabeth Guerard, Nathalie Bonafé @ Vosges
 
 
-- 28 - 29 septembre  2024 - recherches pour Les appels à la danse sauvage / Sarah Grandjean, Nelly Pairon, Elisabeth Guerard, Nathalie Bonafé @ Moselle
+- 28 - 29 septembre  2024 - recherche pour Les appels à la danse sauvage / Sarah Grandjean, Nelly Pairon, Elisabeth Guerard, Nathalie Bonafé @ Moselle
 
 
 
