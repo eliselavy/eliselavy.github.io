@@ -78,7 +78,13 @@
 </style>
 </head>
 <body>
-    <div id="zone1" class="clickable-zone" onclick="location.href='danse_sauvage/dance_sauvage_terrain.html';">danse sauvage</div>
-    <div id="zone2" class="clickable-zone" onclick="location.href='danse_sauvage/resume_dance.html';">cv danse</div>
+    <div id="zone1" class="clickable-zone" onclick="window.open('danse_sauvage/dance_sauvage_terrain.html', '_blank');">danse sauvage</div>
+    <div id="zone2" class="clickable-zone" onclick="window.open('danse_sauvage/resume_dance.html', '_blank');">cv danse</div>
+    <script>
+        // Ensure all anchor tags open in a new tab
+        document.querySelectorAll('a').forEach(anchor => {
+            anchor.setAttribute('target', '_blank');
+        });
+    </script>
 </body>
 </html>
