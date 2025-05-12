@@ -1,4 +1,4 @@
-## Danse sauvage
+## Danse sauvage 
 
 Depuis 2021, proposition faite avec la [Demeure drue](https://demeuredrue.org/se-faire-ecole)
 
@@ -18,36 +18,34 @@ Week-end préparatoire:
 ## Workshop
 ### Travail en extérieur
 
-#### Jennifer Monson- Investigating dance as a navigational / migrational project -Prague (10 jours - 2013)
+#### Jennifer Monson - 10 jours - 2013 - Prague
+> Investigating dance as a navigational / migrational project
 
-#### Week-end Danse & Paysage #2 - Un monde qui  se désagrège - Léonard Lesage -15 Juillet 23 → 16 Juillet 23 - Barbirey sur Ouche
-> Le chorégraphe et danseur Léonard Lesage vous invite à plonger dans la forêt comme on saute dans une eau noire et profonde. Par la danse et le théâtre physique, nous irons explorer un imaginaire fantastique où les corps se métamorphosent. En passant par le jeu, l'improvisation et la composition, chacun.e sera libre d'exprimer ses sensations, au contact de la mousse, des écorces, des senteurs animales et des cours d'eau.
-
-#### Sentiers intérieurs - Ephia Gburek - Du 4 au 7 juillet 2022 - Tourzel-Ronzières
+#### Ephia Gburek - Sentiers intérieurs - 4 au 7 juillet 2022 - Tourzel-Ronzières
 > Devenir falaise. Devenir fleuve. Être fouille. Être feuille. Geste végétal. Action immobile. Être fossile. Être lieu. Lieu pour se dissoudre, se confondre avec le paysage.
 Ephia Gburek (https://djalma.com/fr/stages.html)
 
-#### Sessions régulières avec Camille Mutel - atelier - stage - Nancy
+#### Léonard Lesage - Week-end Danse & Paysage #2 - Un monde qui  se désagrège - 15 au 16 juillet 2023 - Barbirey sur Ouche
+> Le chorégraphe et danseur Léonard Lesage vous invite à plonger dans la forêt comme on saute dans une eau noire et profonde. Par la danse et le théâtre physique, nous irons explorer un imaginaire fantastique où les corps se métamorphosent. En passant par le jeu, l'improvisation et la composition, chacun.e sera libre d'exprimer ses sensations, au contact de la mousse, des écorces, des senteurs animales et des cours d'eau.
+
+#### Sessions régulières avec Camille Mutel - atelier - stage - Nancy depuis 2021
 
 ### Travail en intérieur
 
-#### Masaki Iwana - Danse Butô et improvisation - CCAM Nancy (30h - 2012)
-#### Yumiko Oschioka - Body Resonance – Luxembourg (10h- 2015) - Schloss Brollin Berlin (11 jours - 2009)
-####  Min Tanaka - Workshop dans le cadre de Camping - CND Paris ( 20-24/06 * 27/06-01/07 - 2016)
-#### Body weather - Frank van de Ven - 7 et 8 décembre 2024 - Nancy
+#### Masaki Iwana - Danse Butô et improvisation - 30h - 2012 - CCAM Nancy 
+#### Yumiko Oschioka - Body Resonance – 10h- 2015 - Luxembourg - 11 jours - 2009 - Schloss Brollin Berlin 
+####  Min Tanaka - Workshop dans le cadre de Camping - 20-24/06 * 27/06-01/07 - 2016 - CND Paris
+#### Frank van de Ven - Body weather - 7 et 8 décembre 2024 - Nancy
 
 
 ### Travail répertoire 
 
-#### Anna Halprin - Perform your life – 104 Paris (2 jours - 2010)
-#### Le répertoire de Thomas Lebrun : une approche par l’analyse du mouvement Laban – CCNT Tours ( 4 jours – 32h- 2015)
-#### Anne Collod - Fragment d’une danse macabre - CND Paris (5 jours - 30h - 2013)
+#### Anna Halprin - Perform your life – 2 jours - 2010 - 104 Paris
+#### Le répertoire de Thomas Lebrun : une approche par l’analyse du mouvement Laban –  - 4 jours – 32h- 2015 - CCNT Tours
+#### Anne Collod - Fragment d’une danse macabre - 5 jours - 30h - 2013 - CND Paris 
 #### Trisha Brown Summer Intensive to learn Locus with Eva Karczag and Shelley Senter - Virtual summer intensive - 21 au 25 juin 2001 - 2h par jour - Zoom
-#### Liz Santoro et Pierre Godard - Du 29 janvier au 2 février 2024 - Cartoucherie
+#### Liz Santoro et Pierre Godard - du 29 janvier au 2 février 2024 - Cartoucherie
 > Architectures partagées : corps et algorithme
-
-
-
 
 ## Performance
 ### 13 juillet 2024 - Poncillon (Moselle)
