@@ -1,89 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="utf-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-<title>Elisabeth Guerard</title>
-<meta name="description" content="" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<style>
-    body {
-        margin: 0; /* Remove default margin */
-        position: relative; /* Ensure child elements are positioned relative to the body */
-        background-image: url('media/homepage.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: top; /* Focus on the top of the image */
-        height: 100vh; /* Ensure the body takes the full viewport height */
-    }
-    .clickable-zone {
-        position: absolute;
-        /* border: 2px solid red;  Red border for visibility */
-        cursor: pointer;
-        color: #ff5aac; /* Text color set to pink */
-        font-size: 32px; /* Font size set to 24px */
-        transform: rotate(330deg); /* Rotate the text by 15 degrees */
-        font-style: normal; /* Remove italic style */
-    }
-    #zone1 {
-        top: 40%; /* Center vertically */
-        left: 30%; /* Position relative to the left */
-        transform: translate(-50%, -50%) rotate(330deg); /* Center and rotate */
-        width: 150px;
-        height: 150px;
-    }
-    #zone2 {
-        top: 30%; /* Adjusted for better alignment */
-        left: 60%; /* Position relative to the right */
-        transform: translate(-50%, -50%) rotate(330deg); /* Center and rotate */
-        width: 150px;
-        height: 150px;
-    }
-
-    @media (max-width: 768px) {
-        .clickable-zone {
-            font-size: 24px; /* Reduce font size for smaller screens */
-        }
-        #zone1 {
-            top: 40%; /* Adjust for smaller screens */
-            left: 45%;
-            width: 100px;
-            height: 100px;
-        }
-        #zone2 {
-            top: 15%;
-            left: 40%;
-            width: 100px;
-            height: 100px;
-        }
-    }
-
-    @media (max-width: 480px) {
-        .clickable-zone {
-            font-size: 16px; /* Further reduce font size for better readability */
-        }
-        #zone1 {
-            top: 20%; /* Adjust position for better alignment */
-            left: 18%; /* Ensure it fits well on smaller screens */
-            width: 70px; /* Reduce size for smaller screens */
-            height: 70px;
-        }
-        #zone2 {
-            top: 12%; /* Adjust position for better alignment */
-            left: 60%; /* Ensure it fits well on smaller screens */
-            width: 70px; /* Reduce size for smaller screens */
-            height: 70px;
-        }
-    }
-</style>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Elisabeth Guerard</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
     <div id="zone1" class="clickable-zone" onclick="window.open('danse_sauvage/dance_sauvage_terrain.html', '_blank');">danse sauvage</div>
     <div id="zone2" class="clickable-zone" onclick="window.open('danse_sauvage/resume_dance.html', '_blank');">cv danse</div>
     <script>
-        // Ensure all anchor tags open in a new tab
-        document.querySelectorAll('a').forEach(anchor => {
-            anchor.setAttribute('target', '_blank');
+        document.addEventListener('DOMContentLoaded', () => {
+            // Ensure all anchor tags open in a new tab
+            document.querySelectorAll('a').forEach(anchor => {
+                anchor.setAttribute('target', '_blank');
+            });
         });
     </script>
 </body>
