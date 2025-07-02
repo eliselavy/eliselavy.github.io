@@ -36,7 +36,7 @@ m = folium.Map(location=[center_lat, center_lon], zoom_start=12,
 for index, location_info in dance_station_locations.iterrows():
  # Create a marker
     url = location_info['url']
-    popup_content = f"<b>{location_info['main_place']}</b><br>Danse sauvage: {location_info['date']}<br>More info<a href='{url}' target='blank'> here</a>"
+    popup_content = f"<b>{location_info['main_place']}</b><br>Danse sauvage: {location_info['date']}<br>"
     color = "green"
     folium.Marker(
         [location_info["latitude"], location_info["longitude"]],
