@@ -34,8 +34,9 @@ Ephia Gburek (https://djalma.com/fr/stages.html)
 
 #### Masaki Iwana - Danse Butô et improvisation - 30h - 2012 - CCAM Nancy 
 #### Yumiko Oschioka - Body Resonance – 10h- 2015 - Luxembourg - 11 jours - 2009 - Schloss Brollin Berlin 
-####  Min Tanaka - Workshop dans le cadre de Camping - 20-24/06 * 27/06-01/07 - 2016 - CND Paris
-#### Frank van de Ven - Body weather - 7 et 8 décembre 2024 - Nancy
+#### Min Tanaka - Workshop dans le cadre de Camping - 20-24/06 * 27/06-01/07 - 2016 - CND Paris
+#### Frank van de Ven - Body weather - 7 et 8 décembre 2024 - Nancy /  18 et 19 octobre 2025 - Metz
+#### Frey Faust - The axis syllabuq(c): dynamic geometry for the performing artist - 12 janvier - 16 janvier - Luxembourg
 
 
 ### Travail répertoire 
